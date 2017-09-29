@@ -2,6 +2,10 @@
 
 [Doku Wiki](https://www.dokuwiki.org/) on top of [PHP 7.0 with Apache](https://hub.docker.com/_/php/). 
 
+## CHANGELOG
+
+- 09/29/2017  Updated Dokuwiki to version 2017-02-19e 
+
 ## Getting Started
 
 1. Pull image ```docker pull aleksxp/dokuwiki```
