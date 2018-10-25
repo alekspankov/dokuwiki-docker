@@ -19,7 +19,7 @@ Read more about **docker run** option in [official Docker documentstion](https:/
 1. Create Dockerfile. Use ```FROM aleksxp/dokuwiki```. Add whatever you need. 
 1. Run ```docker build -t your_image_name .```
 
-Read more about **Dockerfile** and **docker build** in  [official Docker documentstion](https://docs.docker.com/engine/reference/builder/).
+Read more about **Dockerfile** and **docker build** in  [official Docker documentation](https://docs.docker.com/engine/reference/builder/).
 
 ### Prerequisites
 
